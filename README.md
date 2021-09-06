@@ -1,0 +1,1 @@
+# pattern7.py
